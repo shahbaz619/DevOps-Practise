@@ -5,7 +5,7 @@
   tasks:
 
   # Install Docker
-  # --
+  # ---
   # 
   - name: install prerequisites
     apt:
